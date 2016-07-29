@@ -31,7 +31,7 @@
 user:admin
 password:123456
 
-项目里包含了 一个example
+<a href='http://demo.linked100.com/'>Demo</a>
 
 界面截图：<br>
 <img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/2.png' width="60%" height="60%" >
@@ -39,6 +39,7 @@ password:123456
 <img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/4.png' width="60%" height="60%" >
 <img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/5.png' width="60%" height="60%" >
 <img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/6.png' width="60%" height="60%" >
+<img src='https://github.com/bohan1115/metronic_laravel_admin/blob/master/screen/8.png' width="80%" height="80%" >
 
 
 
