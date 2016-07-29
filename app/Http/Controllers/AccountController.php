@@ -324,7 +324,7 @@ class AccountController extends Controller
             $form = $form_view->getForm();
             $form->validate([
                 'name' => 'required|max:20|unique:role',
-                'permission' => 'required'
+                'permissions' => 'required'
             ]);
             if (!$form->isValid()) {
                 return $form->getErrors();
